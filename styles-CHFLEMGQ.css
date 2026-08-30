@@ -1,0 +1,1 @@
+:root{color-scheme:dark;--tlo: #0e1512;--tlo-karty: #16201c;--obrys: #26332d;--zloto: #e0b464;--tekst: #e9ece9;--tekst-przygaszony: #93a09a;font-family:system-ui,-apple-system,Segoe UI,sans-serif}*{box-sizing:border-box}html,body{margin:0;padding:0;background:var(--tlo);color:var(--tekst);overflow-x:hidden}img,canvas,svg{max-width:100%}[hidden]{display:none!important}
